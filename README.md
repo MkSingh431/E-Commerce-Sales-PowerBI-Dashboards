@@ -22,6 +22,6 @@ Power BI | DAX | Data Cleaning | Data Modeling | Data Visualization | Business I
 ![alt text](image2.png)
 
 ### 👤 Author
-**Mk Singh**  
+**Motilal Das**  
 💼 [LinkedIn](https://www.linkedin.com/in/mk-singh/)  
 💻 [GitHub](https://github.com/mksingh)
